@@ -1,124 +1,37 @@
-# Hi 👋 I'm Kaushal Trivedi
+# Hi there, I'm Kaushal Trivedi! 👋
 
-🚀 AI | Blockchain | Backend Developer  
-🎓 B.Tech IT Student at VIT Mumbai  
-
----
-
-## 👨‍💻 About Me
-
-I am a third-year B.Tech student specializing in **AI, Blockchain, and Backend Development**.  
-I enjoy building **scalable applications, decentralized platforms, and AI-driven solutions**.
-
-My interests include:
-
-- Artificial Intelligence & Machine Learning
-- Blockchain Development
-- Backend Systems
-- Automation
-- Data Analysis
+🌟 **AI/ML Developer | Blockchain Developer | Backend Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Programming Languages
-- Python
-- Go
-- Rust
-- Solidity
+I'm currently pursuing **B.Tech in Information Technology at VIT Mumbai**.
+I enjoy building **AI-powered systems, decentralized applications, and scalable backend solutions**.
 
-### Technologies
-- AI / Machine Learning
-- Blockchain (Ethereum, Polygon)
-- n8n Automation
-- Data Analysis (Python)
-
-### Tools
-- Git & GitHub
-- Docker
-- IPFS
-- OpenCV
-- TensorFlow / PyTorch
+* 🎓 B.Tech IT Student – **VIT Mumbai**
+* 🔗 Interested in **Blockchain, AI/ML, and Backend Development**
+* 🧠 Working with **Python, Solidity, Rust and Go**
+* 🤖 Exploring **AI models, automation and data analysis**
+* 🤝 Open to collaboration on **AI and Blockchain projects**
 
 ---
 
-## 🚀 Projects
+## 🛠 Skills & Tools
 
-### Face Recognition Attendance System
-- Built a **CNN-based attendance system** using TensorFlow/PyTorch and OpenCV.
-- Real-time face detection and verification.
-- Contactless attendance logging with an **admin analytics dashboard**.
+### Languages
 
----
-
-### Decentralized Notes Marketplace
-- Blockchain platform for **secure academic content exchange**.
-- Used **IPFS for storage** and **Ethereum smart contracts**.
-- Implemented digital ownership, royalties, and decentralized identity.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
 ---
 
-### Decentralized Payment System
-- Built a **custom ERC-20 token and wallet app**.
-- Enabled low-cost transactions using **Layer-2 scaling**.
-- Integrated with campus marketplace and reward systems.
+### Technologies & Tools
 
----
-
-### CivicSense – AI Civic Issue Reporting
-- AI system detecting **potholes, sewage issues, and streetlight faults**.
-- CNN-based image recognition.
-- Multilingual **WhatsApp chatbot integration**.
-- Real-time dashboard with geospatial analytics.
-
----
-
-## 🏆 Achievements
-
-- 🥈 **2nd Runner-up – Appsavvy Competition**
-- 🌟 **Top 100 – Google Gemini Competition**
-
----
-
-## 🎓 Education
-
-**VIT Mumbai**  
-B.Tech in Information Technology (2024 – 2027)  
-CGPA: 9.625
-
-**Vidyalankar Polytechnic**  
-Diploma in Information Technology (2022 – 2024)  
-93% Final Semester
-
----
-
-## 📜 Certifications
-
-**IIT Bombay – Satellite Image Data Processing**
-
-- Processed satellite imagery from **Sentinel datasets**
-- Applied **AI techniques for analysis**
-
----
-
-## 💼 Internship
-
-**CyberSanskar – Cybersecurity Intern**
-
-Duration: 6 Weeks  
-
-- Ethical hacking fundamentals
-- SSL attack basics
-- Security concepts
-
----
-
-## 📫 Connect With Me
-
-📧 Email: kaushaltrivedi268@gmail.com  
-📍 Mumbai, India  
-
-- LinkedIn
-- GitHub
-- Portfolio
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge\&logo=n8n\&logoColor=white)
