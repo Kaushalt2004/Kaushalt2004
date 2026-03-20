@@ -36,6 +36,17 @@ I enjoy building **AI-powered systems, decentralized applications, and scalable 
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge\&logo=n8n\&logoColor=white)
 
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushalt2004&theme=github-compact&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/409ba5/Kaushalt2004" />
+</p>
+
+---
+
+## 📈 Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalt2004&theme=github&hide_border=true&show_icons=false&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalt2004&layout=compact&theme=github&hide_border=true" height="160"/>
 </p>
