@@ -37,6 +37,5 @@ I enjoy building **AI-powered systems, decentralized applications, and scalable 
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge\&logo=n8n\&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalt2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalt2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushalt2004&theme=github-compact&hide_border=true"/>
 </p>
