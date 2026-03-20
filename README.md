@@ -36,4 +36,7 @@ I enjoy building **AI-powered systems, decentralized applications, and scalable 
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge\&logo=n8n\&logoColor=white)
 
-![Kaushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushalt2004&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalt2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalt2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+</p>
